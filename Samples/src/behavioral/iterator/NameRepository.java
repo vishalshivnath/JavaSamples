@@ -12,7 +12,6 @@ public class NameRepository implements Container {
 
 	private class NameIterator implements Iterator {
 		
-		
 		int index;
 		
 		@Override
